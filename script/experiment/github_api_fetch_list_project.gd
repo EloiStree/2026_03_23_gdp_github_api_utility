@@ -134,7 +134,7 @@ func get_contributed_repos() -> void:
             }
           }
         }
-        """
+		"""
 	}
 	
 	var headers = [
